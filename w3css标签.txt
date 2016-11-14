@@ -1,0 +1,71 @@
+span w3-closebtn
+
+w3-container 
+
+w3-teal
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+w3-red
+
+w3-text-red
+
+w3-hover-yellow
+
+w3-border	Adds borders (top, right, bottom, left) to an element
+
+w3-border-top	Adds a top border to an element
+
+w3-border-right	Adds a right border to an element
+
+w3-border-bottom	Adds a bottom border to an element
+
+w3-border-left	Adds a left border to an element
+
+w3-border-0	Removes all borders
+
+w3-border-color	Displays the border in a specified color (like red, blue, etc)
+
+w3-hover-border-color	Adds a hoverable border color
+
+w3-bottombar	Adds a thick bottom border to an element
+
+w3-leftbar	Adds a thick left border to an element
+
+w3-rightbar	Adds a thick right border to an element
+
+w3-topbar	Adds a thick top border to an element
+
+w3-round-xlarge
+
+w3-leftbar
+
+w3-hover-border-red
+
+w3-panel
+
+ <span class="w3-closebtn" onclick="this.parentElement.style.display='none'">X</span>
+
+w3-card	Container for any HTML content (With border)
+
+w3-card-2	Container for any HTML content (2px bordered shadow)
+
+w3-card-4	Container for any HTML content (4px bordered shadow)
+
+w3-card-8	Container for any HTML content (8px bordered shadow)
+
+w3-card-12	Container for any HTML content (12px bordered shadow)
+
+w3-card-16	Container for any HTML content (16px bordered shadow)
+
+w3-card-24	Container for any HTML content (24px bordered shadow)
+
+w3-hover-shadow
+
+w3-center
+
+w3-opacit
+
+w3-text-shadow
+
+span
